@@ -6,7 +6,7 @@
 
 
 [discord-badge]: https://img.shields.io/badge/discord-green?labelColor=0c0d10&color=7289da&style=for-the-badge&logo=discord&logoColor=7289da
-[discord-link]: https://discord.gg/fRYXRmqKHD
+[discord-link]: https://discord.gg/2P8B55B58S
 
 [website-badge]: https://img.shields.io/badge/website-green?labelColor=0c0d10&color=3a71c1&style=for-the-badge&logo=firefoxbrowser&logoColor=3a71c1
 [website-link]: https://galaxyexe.carrd.co
