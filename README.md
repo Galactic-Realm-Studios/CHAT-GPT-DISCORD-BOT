@@ -1,6 +1,6 @@
 <div align="center">
 
-[![BetterDiscord Logo](https://cdn.discordapp.com/attachments/1155787121588711444/1167582073364693052/Galaxy_Banner.png?ex=654ea68a&is=653c318a&hm=23f046f02184813719beb6432debb16157de1ac2bcef47b6f651302b089dfc72&)](https://galaxyexe.carrd.co)
+[![BetterDiscord Logo](https://static.vecteezy.com/system/resources/previews/021/851/011/original/odesa-ukraine-march-27-2023-chat-gpt-banner-for-web-using-apps-websites-chat-bot-gpt-from-open-ai-horizontal-poster-free-vector.jpg)](https://galaxyexe.carrd.co)
 
 [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link]
 
@@ -13,8 +13,7 @@
 
 
 
-Galactic Realm Studios is an app with custumization to get the latest news from galaxy.
-
+Chat GPT OPEN AI DISCORD BOT!!!!!!!!
 
 
 </div>
