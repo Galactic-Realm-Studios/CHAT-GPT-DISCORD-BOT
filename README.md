@@ -24,6 +24,9 @@ Chat GPT OPEN AI DISCORD BOT!!!!!!!!
 
 Download the installer for your operating system below. You can check [this page]() for a more detailed guide.
 
+# How to use
+Go To the `.env` file and change the `token` to your discord bot token, and the `openai_key` to your open ai key.
+
 [![Windows Installer][windows-badge]][windows-link]
 
 [windows-link]: https://github.com/Galactic-Realm-Studios/CHAT-GPT-DISCORD-BOT.git
